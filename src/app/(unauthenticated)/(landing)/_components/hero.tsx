@@ -75,13 +75,13 @@ export default function Hero() {
         </h1>
       </div>
       <p className="text-neutral-700 dark:text-neutral-300 mx-auto block text-balance max-w-sm text-center text-base md:max-w-3xl md:text-lg xl:text-xl">
-        Browse our curated collection of{' '}
+        Become a indie-hacker with our curated collection of{' '}
         {numberOfPortfolios && (
           <span className="text-foreground font-semibold">
             {numberOfPortfolios}+
           </span>
         )}{' '}
-        exceptional designs to help you create your best portfolio yet.
+        case studies to help you build your own successful online business.
       </p>
     </>
   );
