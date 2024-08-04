@@ -7,13 +7,13 @@ const nextConfig = {
         hostname: '**',
       },
       {
-        hostname: 'portfolioshub.com',
+        hostname: 'indiehackerstory.com',
       },
       {
-        hostname: 'tremendous-panda-612.convex.site',
+        hostname: 'adventurous-porpoise-471.convex.cloud',
       },
       {
-        hostname: 'spotted-swordfish-236.convex.site',
+        hostname: 'beaming-parakeet-666.convex.cloud',
       },
     ],
   },
