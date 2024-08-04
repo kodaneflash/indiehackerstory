@@ -13,13 +13,13 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   metadataBase: new URL('https://indiehackerstory.com/'),
   title: {
-    default: 'IndieHackerStory | Discover the secrets to how indie hackers are building 7-figure online businesses',
+    default: 'IndieHackerStory | Discover secrets from indie-hackers to building 7-figure online businesses',
     template: '%s | IndieHackerStory',
   },
-  description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
+  description: 'Unlock our database of thousands of case studies to learn how indie hackers are building 7-figure online businesses.',
   openGraph: {
-    title: 'IndieHackerStory',
-    description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
+    title: 'IndieHackerStory - Discover secrets from indie-hackers to building 7-figure online businesses',
+    description: 'Unlock our database of thousands of case studies to learn how indie hackers are building 7-figure online businesses.',
     url: 'https://indiehackerstory.com/',
     siteName: 'IndieHackerStory',
     locale: 'en_US',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'IndieHackerStory',
-    description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
+    description: 'Unlock our database of thousands of case studies to learn how indie hackers are building 7-figure online businesses.',
   },
 };
 
