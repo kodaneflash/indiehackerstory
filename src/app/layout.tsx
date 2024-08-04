@@ -11,17 +11,17 @@ import { ContextProvider } from '../components/context-provider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://portfolioshub.com/'),
+  metadataBase: new URL('https://indiehackerstory.com/'),
   title: {
-    default: 'PortfoliosHub | Find the best portfolios and showcase your work',
-    template: '%s | PortfoliosHub',
+    default: 'IndieHackerStory | Discover the secrets to how indie hackers are building 7-figure online businesses',
+    template: '%s | IndieHackerStory',
   },
-  description: 'Find the best portfolios and showcase your work.',
+  description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
   openGraph: {
-    title: 'PortfoliosHub',
-    description: 'Find the best portfolios and showcase your work..',
-    url: 'https://portfolioshub.com/',
-    siteName: 'PortfoliosHub',
+    title: 'IndieHackerStory',
+    description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
+    url: 'https://indiehackerstory.com/',
+    siteName: 'IndieHackerStory',
     locale: 'en_US',
     type: 'website',
     images: '/opengraph-image.png',
@@ -31,8 +31,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'PortfoliosHub',
-    description: 'Find the best portfolios and showcase your work.',
+    title: 'IndieHackerStory',
+    description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
   },
 };
 

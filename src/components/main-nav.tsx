@@ -11,7 +11,7 @@ export default function MainNav() {
     <Link href="/" className="font-semibold text-lg gap-2 flex items-center">
       <LogoIcon />
       <span className="flex-row leading-[18px]">
-        Portfolios<span className="text-emerald-500">Hub</span>
+        IndieHacker<span className="text-emerald-500">Story</span>
       </span>
     </Link>
   );

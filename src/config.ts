@@ -1,6 +1,6 @@
 export const CONFIG = {
-  name: 'PortfoliosHub',
-  description: 'Find the best portfolios and showcase your work.',
+  name: 'IndieHackerStory',
+  description: 'Discover the secrets to how indie hackers are building 7-figure online businesses.',
   github: 'https://github.com/hqasmei/portfolioshub',
-  twitter: 'https://twitter.com/hqasmei',
+  twitter: 'https://twitter.com/indiehackerstory',
 };
